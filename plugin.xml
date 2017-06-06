@@ -10,7 +10,7 @@
         <param name="ios-package" value="SwiftEcho" />
       </feature>
     </config-file>
-    <header-file src="src/ios/SwiftEcho-Bridging-Header.h"
+    <header-file src="src/ios/SwiftEcho-Bridging-Header.h" />
     <source-file src="src/ios/SwiftEcho.swift" />
 
     <dependency id="cordova-plugin-add-swift-support" version="1.6.1"/>
