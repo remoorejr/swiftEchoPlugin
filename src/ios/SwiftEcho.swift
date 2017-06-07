@@ -1,4 +1,4 @@
-import UIKit
+// For use with Swift 3.0
 
 @objc(SwiftEcho) class SwiftEcho : CDVPlugin {
   @objc(echo:)
