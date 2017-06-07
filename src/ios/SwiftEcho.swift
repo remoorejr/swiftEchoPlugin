@@ -1,3 +1,5 @@
+import UIKit
+
 @objc(SwiftEcho) class SwiftEcho : CDVPlugin {
   @objc(echo:)
   func echo(command: CDVInvokedUrlCommand) {
